@@ -12,7 +12,7 @@
 <script>
 import NprogressContainer from 'vue-nprogress/src/NprogressContainer'
 import { Navbar, Sidebar, AppMain, FooterBar } from 'components/layout/'
-import Notifications from 'components/UI/Notifications'
+import Notifications from 'components/ui/Notifications'
 import { mapGetters, mapActions } from 'vuex'
 
 export default {
